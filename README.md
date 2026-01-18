@@ -1,5 +1,5 @@
 <!-- last_verified_all:start -->
-> ❌ Link verification attempted on **2026-01-17** — report unavailable (likely rate-limit or CI hiccup).
+> ❌ Link verification attempted on **2026-01-18** — report unavailable (likely rate-limit or CI hiccup).
 <!-- last_verified_all:end -->
 
 # Learn RISC-V
